@@ -88,34 +88,35 @@ The most common causes of telogeneffluvium are:
 
 Hair loss may also occur due to dieting. Franchised diet programs that are designed or administered under the direction of a physician with prescribed meals, dietary supplements and vitamin ingestion have become popular. Sometimes the client is told that vitamins are a necessary part of the program to prevent hair loss associated with dieting. From a dermatologist's standpoint however, the vitamins cannot prevent hair loss associated with rapid, significant weight loss. Furthermore many of these supplements are high in vitamin A that can magnify the hair loss.
 
-Physical and Emotional Stress
+#### Physical and Emotional Stress
 
 Surgeries, severe illnesses, and emotional stress can cause hair loss. The body simply shuts down production of hair during periods of stress since it is not necessary for survival and instead devotes its energies toward repairing vital body structures. In many cases there is a three-month delay between the actual event and the onset of hair loss. Furthermore, there may be another three-month delay prior to the return of noticeable hair regrowth. This then means that the total hair loss and regrowth cycle can last 6 months or possibly longer when induced by physical or emotional stress. There are some health conditions which may go undetected that can contribute to hair loss. These include anemia or low blood count and thyroid abnormalities. Both of these conditions can be detected by a simple, inexpensive blood test.
 
-Hormonal Considerations
+#### Hormonal Considerations
 
 Hormonal changes are a common cause of female hair loss. Many women do not realize that hair loss can occur after pregnancy or following discontinuation of birth control pills. It is important to remember that the hair loss may be delayed by three months following the hormonal change and another three months will be required for new growth to be fully achieved.
 
-MythsRelatedtoHairLoss
+#### Myths Related to Hair Loss
 
-Frequent shampooing contributes to hair loss.
-Hats and wigs cause hair loss.
-100 strokes of the hairbrush daily will create healthier hair.
-Permanent hair loss is caused by perms, colors and other cosmetic treatments.
-Women are expected to develop significant hair loss if they are healthy.
-Shaving one's head will cause the hair to grow back thicker.
-Standing on one's head will cause increased circulation and thereby stimulate hair growth.
-Dandruff causes permanent hair loss.
-There are cosmetic products that will cause the hair to grow thicker and faster.
-Stress causes permanent hair loss.
-Hair loss does not occur in the late teens or early twenties.
-Hair loss affects only intellectuals.
-There is a cure for androgenetic Alopecia.
+- Frequent shampooing contributes to hair loss.
+- Hats and wigs cause hair loss.
+- 100 strokes of the hairbrush daily will create healthier hair.
+- Permanent hair loss is caused by perms, colors and other cosmetic treatments.
+- Women are expected to develop significant hair loss if they are healthy.
+- Shaving one's head will cause the hair to grow back thicker.
+- Standing on one's head will cause increased circulation and thereby stimulate hair growth.
+- Dandruff causes permanent hair loss.
+- There are cosmetic products that will cause the hair to grow thicker and faster.
+- Stress causes permanent hair loss.
+- Hair loss does not occur in the late teens or early twenties.
+- Hair loss affects only intellectuals.
+- There is a cure for androgenetic Alopecia.
 
 These are only a few of the common myths heard by physicians and other hair loss specialists on a daily basis. The American Hair Loss Council suggests that you first have your hair loss diagnosed by a competent dermatologist who sees hair loss patients on a regular basis. Once you know the diagnosis you will have a better understanding of exactly which treatment option may be best for you.
 
-Treatment Options Available for Female Pattern Hair Loss
-Perms, color, and other cosmetic options to give a fuller appearance to hair.
-Medical therapy – Topical Treatments that are FDA approved (medication) currently available for female pattern hair loss.
-Hair Transplant Surgery - Modern surgical techniques have made transplantation for females a viable treatment option providing they are qualified candidates and have realistic expectations.
-Hair Replacement Hair Systems - Modern forms of hair additions have also made recent improvements in simulating a natural appearance. A consultation with a skilled specialist to discuss your options is advised.
+#### Treatment Options Available for Female Pattern Hair Loss
+
+- Perms, color, and other cosmetic options to give a fuller appearance to hair.
+- Medical therapy – Topical Treatments that are FDA approved (medication) currently available for female pattern hair loss.
+- Hair Transplant Surgery - Modern surgical techniques have made transplantation for females a viable treatment option providing they are qualified candidates and have realistic expectations.
+- Hair Replacement Hair Systems - Modern forms of hair additions have also made recent improvements in simulating a natural appearance. A consultation with a skilled specialist to discuss your options is advised.
