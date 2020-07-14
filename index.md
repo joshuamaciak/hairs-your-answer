@@ -1,5 +1,4 @@
 ---
-title: Hair's Your Answer
 subtitle: Erie’s finest hair-restoration studio offering proven solutions to hair-loss
 layout: page
 ---
