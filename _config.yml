@@ -1,9 +1,9 @@
 title: Stackbit Vanilla Theme
 baseurl: /
-permalink: '/:title/'
+permalink: "/:title/"
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"
 description: A vanilla theme for Stackbit
 header:
   title: Stackbit Vanilla
@@ -11,34 +11,38 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Generic
-      url: /generic/
-    - label: Elements
-      url: /elements/
-    - label: Ipsum
-      url: /ipsum/
+      new_window: false
+    - label: About Us
+      url: /about/
+      new_window: false
+    - label: Hair Restoration for Men
+      url: /hair-restoration-for-men/
+      new_window: false
+    - label: Hair Restoration for Women
+      url: /hair-restoration-for-women/
+      new_window: false
+    - label: Laser Therapy
+      url: /hair-laser-therapy/
+      new_window: false
+    - label: FAQ
+      url: /hair-restoration-faq/
+      new_window: false
 footer:
-  content: '&copy; All rights reserved.'
+  content: "&copy; Hair's Your Answer 2020. All rights reserved."
   links:
     - label: Made with Stackbit
-      url: 'https://www.stackbit.com'
+      url: "https://www.stackbit.com"
       new_window: true
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: "https://twitter.com/"
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
-      new_window: true
-    - label: GitHub
-      url: 'https://github.com/'
+      url: "https://www.instagram.com/"
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
+      url: "https://www.linkedin.com/"
       new_window: true
 sass:
   indentWidth: 4

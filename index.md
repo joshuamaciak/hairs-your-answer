@@ -1,59 +1,15 @@
 ---
-title: Home
-sections:
-  - section_id: hero
-    type: section_hero
-    title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
-  - title: Text
-    section_id: intro
-    type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    image: images/art.svg
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-layout: advanced
+title: Hair's Your Answer
+subtitle: Erie’s finest hair-restoration studio offering proven solutions to hair-loss
+layout: page
 ---
+
+Hair's Your Answer is Erie’s finest hair-restoration studio offering proven solutions to hair-loss. Thinning hair, alopecia, chemical damage – any kind of hair loss or hair problem has a solution. But trust your image only to certified experts.
+
+**Master Stylist & Studio Owner Nancy Sauers** is a certified, skilled & passionate hair-loss expert. Nancy is committed to providing state-of-the-art hair loss solutions. She is a trusted figure in the hair restoration community & in her own community. Today after 23 years of experience Nancy Sauers provides an extensive variety of personalized treatment plans to meet your desired image. Effective hair restoration treatments designed to be simple, healthy and affordable.
+
+What sets Hair's Your Answer apart from other hair restoration studios is their total commitment to deliver beyond the clients expectations. Hair's Your Answer partners with people suffering from the embarrassing & frustrating stigma of hair loss, helping them gain total image freedom. The Team at Hair's Your Answer has the ability to develop virtually undetectable looking hairlines through innovative designs & skilled artistry.
+
+Hair's Your Answer hair restoration studio provides a safe, private, professional and caring environment for anyone looking to do something about their hair loss.
+
+**Don’t Delay Call Today [814-454-4001](tel:814-454-4001).**
