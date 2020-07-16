@@ -1,7 +1,8 @@
 ---
-subtitle: Erie’s finest hair-restoration studio offering proven solutions to hair-loss
 layout: page
 ---
+
+![image](/images/placeholder.png)
 
 Hair's Your Answer is Erie’s finest hair-restoration studio offering proven solutions to hair-loss. Thinning hair, alopecia, chemical damage – any kind of hair loss or hair problem has a solution. But trust your image only to certified experts.
 
@@ -11,4 +12,4 @@ What sets Hair's Your Answer apart from other hair restoration studios is their 
 
 Hair's Your Answer hair restoration studio provides a safe, private, professional and caring environment for anyone looking to do something about their hair loss.
 
-**Don’t Delay Call Today [814-454-4001](tel:814-454-4001).**
+**Don’t Delay Call Today [814.454.4001](tel:814-454-4001).**

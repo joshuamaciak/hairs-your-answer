@@ -116,3 +116,5 @@ These are only a few of the common myths heard by physicians and other hair loss
 - Medical therapy – Topical Treatments that are FDA approved (medication) currently available for female pattern hair loss.
 - Hair Transplant Surgery - Modern surgical techniques have made transplantation for females a viable treatment option providing they are qualified candidates and have realistic expectations.
 - Hair Replacement Hair Systems - Modern forms of hair additions have also made recent improvements in simulating a natural appearance. A consultation with a skilled specialist to discuss your options is advised.
+
+If you are experiencing the devastating effects of hair loss and would like to learn about the latest treatment options that are available to you, please **call us at [814.454.4001](tel:814-454-4001)** to set up a free, confidential hair loss consultation.

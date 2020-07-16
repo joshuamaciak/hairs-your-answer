@@ -5,7 +5,7 @@
   justify-content: space-between;
   align-items: stretch;
   border-bottom: 2px solid rgba(0, 0, 0, 0.05);
-  margin-bottom: 2.5rem;
+  margin-bottom: 1rem;
   padding: 0 24px 0 24px;
 
   .logo {
@@ -18,12 +18,31 @@
     margin-bottom: 16px;
     @media screen and (max-width: $tablet) {
       text-align: center;
-      width: 100%;
       margin-bottom: 1rem;
     }
 
     img {
       align-content: center;
+    }
+  }
+
+  .left-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    .geo {
+      width: 100%;
+      padding: 4px;
+      text-align: center;
+      background-color: $primary;
+      color: white;
+      .phone {
+        line-height: 20px;
+        a {
+          font-weight: 500;
+        }
+      }
     }
   }
 

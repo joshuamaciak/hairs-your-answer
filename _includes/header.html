@@ -1,6 +1,14 @@
 <!-- Header -->
 <header id="header" class="header container">
-    <a href="{{ '/' | relative_url }}" class="logo"><img src="/images/logo.gif"/></a>
+    <div class="left-header">
+        <a href="{{ '/' | relative_url }}" class="logo"><img src="/images/logo.gif"/></a>
+        <div class="geo">
+            <div class="phone">
+                Call us <a href="tel:814-454-4001">(814) 454-4001</a>
+            </div>
+            <div>1940 B West 8th Street, Erie 16505</div>
+        </div>
+    </div>
     {% if site.header.nav_links and site.header.has_nav %}
     <nav>
         {% for item in site.header.nav_links %}

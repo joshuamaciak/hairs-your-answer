@@ -55,4 +55,4 @@ Reduction of hair loss usually occurs after five to six treatments. Some patient
 ## Is Laser Hair Restoration Therapy right for you?
 At Hair's Your Answer, we specialize in hair loss restoration and prevention for both men and women. Our revolutionary Laser Hair Therapy treatment program involves no surgery, no drugs, no side effects and no hairpieces.
 
-If you are experiencing the devastating effects of hair loss and would like to learn about the latest treatment options that are available to you, please **call us at [814-454-4001](tel:814-454-4001)** to set up a free, confidential hair loss consultation.
+If you are experiencing the devastating effects of hair loss and would like to learn about the latest treatment options that are available to you, please **call us at [814.454.4001](tel:814-454-4001)** to set up a free, confidential hair loss consultation.

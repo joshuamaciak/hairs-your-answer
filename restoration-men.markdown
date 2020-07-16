@@ -23,4 +23,4 @@ We know you have choices -- our clients choose Hair's Your Answer because we und
 
 At Hair's Your Answer in Erie, PA, we offer **free private, confidential consultations** to help you determine which treatment is best for your individual situation. Live life the way you want, without embarrassment, without being self-conscious, with a full head of hair again. Take the first step to a new you. **Schedule your free, private and confidential hair loss evaluation today.**
 
-With hair restoration, there are lots of options to consider but only one phone call you need to make. **Call us at [814-454-4001](tel:814-454-4001).** After all, you are worth it!
+With hair restoration, there are lots of options to consider but only one phone call you need to make. **Call us at [814.454.4001](tel:814-454-4001).** After all, you are worth it!
