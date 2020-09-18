@@ -2,8 +2,6 @@
 layout: page
 ---
 
-![image](/images/placeholder.png)
-
 Hair's Your Answer is Erie’s finest hair-restoration studio offering proven solutions to hair-loss. Thinning hair, alopecia, chemical damage – any kind of hair loss or hair problem has a solution. But trust your image only to certified experts.
 
 **Master Stylist & Studio Owner Nancy Sauers** is a certified, skilled & passionate hair-loss expert. Nancy is committed to providing state-of-the-art hair loss solutions. She is a trusted figure in the hair restoration community & in her own community. Today after 23 years of experience Nancy Sauers provides an extensive variety of personalized treatment plans to meet your desired image. Effective hair restoration treatments designed to be simple, healthy and affordable.
